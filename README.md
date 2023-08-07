@@ -2,12 +2,6 @@
 
 My name's Jonathan, I'm Brazilian, 34 years old, a Backend Developer passionate about the art of transforming code lines into functional and innovative solutions. With a diverse professional journey, I found my true passion in the technology field, specifically in Backend Development. Currently, I work as a Junior Backend Developer at Cubo Tecnologia. This experience has provided me the opportunity to learn and enhance my skills through challenging projects, contributing to the construction of robust and scalable systems. 
 
-<div align="center">
-  <a href="https://github.com/Jwfelinto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jwfelinto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwfelinto&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 
 <hr>
     
