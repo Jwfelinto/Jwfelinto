@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name's Jonathan, I'm Brazilian, 34 years old, a Backend Developer passionate about the art of transforming code lines into functional and innovative solutions. With a diverse professional journey, I found my true passion in the technology field, specifically in Backend Development. Currently, I work as a Junior Backend Developer at Cubo Tecnologia. This experience has provided me the opportunity to learn and enhance my skills through challenging projects, contributing to the construction of robust and scalable systems. 
+My name's Jonathan, I'm Brazilian, 34 years old, passionate about the art of transforming code lines into functional and innovative solutions. Currently working as a Backend Developer and graduating in Analysis and Systems Development. I love the opportunity to learn and enhance my skills through challenging projects, contributing to the construction of robust and scalable systems. 
 
 
 <hr>
