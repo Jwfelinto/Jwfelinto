@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name's Jonathan, I'm Brazilian, 34 years old, passionate about the art of transforming code lines into functional and innovative solutions. Currently working as a Backend Developer and graduating in Analysis and Systems Development. I love the opportunity to learn and enhance my skills through challenging projects, contributing to the construction of robust and scalable systems. 
+My name's Jonathan, I'm Brazilian, 35 years old, Backend Developer and graduating in Analysis and Systems Development.
 
 
 <hr>
