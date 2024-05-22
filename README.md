@@ -5,7 +5,7 @@ My name's Jonathan, I'm Brazilian, 35 years old, Backend Developer and graduatin
 
 <hr>
     
-### Languages and Technologies
+### Most used Technologies:
 
 
 <div align="center">
@@ -23,8 +23,6 @@ My name's Jonathan, I'm Brazilian, 35 years old, Backend Developer and graduatin
 </div>
 
 <br>
-
-### Most used tools
 
 <div align="center">
 	
