@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name's Jonathan, I'm Brazilian, 35 years old, Backend Developer and graduating in Analysis and Systems Development.
+My name's Jonathan, I'm Brazilian, 36 years old, Backend Developer and graduating in Analysis and Systems Development.
 
 
 <hr>
